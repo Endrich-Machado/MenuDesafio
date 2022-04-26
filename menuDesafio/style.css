@@ -77,7 +77,3 @@ li:hover{
 	color: #1380A9;
 	background-color: white;
 }
-
-/*li:not(:last-child){
-	border-right: 1px solid white;	
-}*/
