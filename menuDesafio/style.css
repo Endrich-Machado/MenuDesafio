@@ -23,30 +23,37 @@ article, aside, details, figcaption, figure,
 footer, header, hgroup, menu, nav, section {
     display: block;
 }
+
 body {
 	font-family: 'Roboto', sans-serif;
     line-height: 1;
 	font-size: 0.9rem;
 }
+
 ol, ul {
     list-style: none;
 }
+
 blockquote, q {
     quotes: none;
 }
+
 blockquote:before, blockquote:after,
 q:before, q:after {
     content: '';
     content: none;
 }
+
 table {
 	border-collapse: collapse;
         border-spacing: 0;
 }
+
 .container{
 	display: flex;
 	justify-content: center;
 }
+
 .fundo{
 	border-radius: 4px;
 	margin-top: 30px;
